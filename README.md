@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Forecasting-Consumer-Spend
-Forecasting consumer spend as a result of wildfires in California based on historical trends and data
-=======
-# Case Study: Forecasting California's Economic Response to Wildfires
+# Forecasting California's Economic Response to Wildfires
 
 ### Context
 In recent years, California has experienced increasingly severe wildfires. Beyond the environmental and human toll, these disasters have disrupted the economy—affecting housing prices, consumer spending, and infrastructure demand. Understanding and forecasting these effects is critical for policymakers, insurers, investors, and emergency planners.
@@ -71,4 +67,3 @@ Follow the below steps to start running and working with the IPYNB file:
   - **pip install --upgrade pip**
   - **pip install -r requirements.txt**
 - Once libraries are downloaded, you can run the IPYNB file and play around with the code
->>>>>>> master
