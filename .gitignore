@@ -1,0 +1,6 @@
+venv/
+dataset download.py
+kaggle setup.py
+realtor-data.csv
+usa-real-estate-dataset.zip
+Wildfire_Econ_Forecasting_Complete.ipynb
