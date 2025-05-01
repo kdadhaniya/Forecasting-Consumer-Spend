@@ -17,13 +17,14 @@ Using real data from 2014 to 2023, your goal is to answer:
 ### Provided Datasets
 
 1. **California Wildfire Damage (2014–2023)**
-   Contains yearly data on acres burned, homes destroyed, fatalities, and estimated financial losses.
-
+   - Contains yearly data on acres burned, homes destroyed, fatalities, and estimated financial losses.
+   - https://www.kaggle.com/datasets/vivekattri/california-wildfire-damage-2014-feb2025
 2. **Personal Consumption Expenditures (PCE) (1997–2023)**
-   Contains consumer spending by category, including durable goods, healthcare, and construction.
-
+   - Contains consumer spending by category, including durable goods, healthcare, and construction.
+   - https://apps.bea.gov/itable/?ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCI1MzQiXSxbIk1ham9yX0FyZWEiLCIwIl0sWyJTdGF0ZSIsWyIwIl1dLFsiQXJlYSIsWyIwNjAwMCJdXSxbIlN0YXRpc3RpYyIsWyItMSJdXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyItMSJdXSxbIlllYXJCZWdpbiIsIi0xIl0sWyJZZWFyX0VuZCIsIi0xIl1dfQ==
 3. **Housing Price Index (HPI) (1991–2023)**
-   Contains monthly housing price index data, which will be aggregated by year.
+   - Contains monthly housing price index data, which will be aggregated by year.
+   - https://www.fhfa.gov/data/hpi/datasets?tab=additional-data
 
 ---
 
